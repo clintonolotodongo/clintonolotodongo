@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clintonolotodongo  
-- 👀 I’m interested in learning every day, improving myself every day — because every day of life is a day of learning.  
+- 👀 I’m interested in learning every day, improving myself every day - because every day of life is a day of learning.  
 - 🌱 I’m currently learning new tools and techniques to level up in software development.  
 - 💞️ I’m looking to collaborate on PHP, Java, and JavaScript projects. I have 3 years of experience in web development and have collaborated on several exciting projects.  
 - 📫 How to reach me:  
